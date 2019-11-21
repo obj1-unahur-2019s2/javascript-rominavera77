@@ -8,5 +8,5 @@ Para practicar bastante, pueden hacer lo siguiente
 - si se llega, el test con dos dependencias
 
 **Recuerden esto**:  
-en package.json, cambiar el script "start" poniendo el nombre del archivo principal de definición de clases.
+ en package.json, cambiar el script "start" poniendo el nombre del archivo principal de definición de clases.
 
