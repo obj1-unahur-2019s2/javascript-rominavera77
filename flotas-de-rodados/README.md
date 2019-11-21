@@ -7,4 +7,6 @@ Para practicar bastante, pueden hacer lo siguiente
 - un test que pruebe un Corsa y un Kwid
 - si se llega, el test con dos dependencias
 
+**Recuerden esto**:  
+en package.json, cambiar el script "start" poniendo el nombre del archivo principal de definición de clases.
 
