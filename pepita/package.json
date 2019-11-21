@@ -1,0 +1,16 @@
+{
+  "name": "pepita",
+  "version": "1.0.0",
+  "description": "Ejemplo para mostrar cómo funciona JS",
+  "main": "./pepita.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node-repl ./pepita.js"
+  },
+  "author": "Federico Aloi",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "node-repl": "^2.0.2"
+  }
+}
